@@ -2,11 +2,6 @@
 
 A full-stack real-time chat application built with Spring Boot and React, featuring WebSocket-based messaging, user authentication, and modern UI/UX design.
 
-![ChatVerse Banner](https://img.shields.io/badge/ChatVerse-Real--Time%20Messaging-blue?style=for-the-badge)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.5.4-brightgreen?style=flat-square)
-![React](https://img.shields.io/badge/React-19.1.1-61dafb?style=flat-square)
-![WebSocket](https://img.shields.io/badge/WebSocket-Enabled-orange?style=flat-square)
-
 ---
 
 ## 🔗 Live Deployment
