@@ -9,6 +9,13 @@ A full-stack real-time chat application built with Spring Boot and React, featur
 
 ---
 
+## 🔗 Live Deployment
+
+- **Frontend**: [https://chat-verse-frontend-seven.vercel.app](https://chat-verse-frontend-seven.vercel.app)
+- **Backend API**: [https://chat-verse-backend-zjzc.onrender.com](https://chat-verse-backend-zjzc.onrender.com)
+
+---
+
 ## 🎬 Project Demo
 
 ### 📹 Video Demonstration
